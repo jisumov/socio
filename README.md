@@ -24,4 +24,4 @@ source venv/bin/activate
 pip install -e .
 ```
 
-<img src="https://raw.githubusercontent.com/jisumov/socio/main/socio.png" alt="SOC I/O cover" width="1024">
+<img src="socio.png" alt="SOC I/O cover" width="1024">
